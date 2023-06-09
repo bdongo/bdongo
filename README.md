@@ -21,7 +21,7 @@ In my free time, I enjoy spending time with friends, playing a multitude of half
 
 I am excited about the opportunity to contribute my expertise, creativity, and drive for growth to a collaborative and ambitious team. Let's connect and explore potential ways to collaborate.
 
-If you are interested, my fashion career has been archived here: https://cargocollective.com/brandonleung
+If you are interested, my fashion career has been archived [here](https://cargocollective.com/brandonleung) 
 
 
 ### :hammer_and_wrench: Languages and Tools :
