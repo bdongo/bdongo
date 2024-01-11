@@ -14,15 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdongo)](https://github.com/anuraghazra/github-readme-stats)
 
-### About me:
-I am a dynamic and adaptable software engineer with experience building and deploying projects using JavaScript, Ruby on Rails, React, Redux, and PostgreSQL, among others. Recognized for my dependability and leadership, I thrive in challenging environments and continuously seek opportunities to expand my skill set. With a background in fashion, where I honed my attention to detail and critical thinking abilities, I successfully transitioned to the Tesla manufacturing team, leveraging my fast learning capabilities to diagnose and resolve production vehicle issues.
-
-In my free time, I enjoy spending time with friends, playing a multitude of half sports or board games, which further cultivates my teamwork and problem-solving skills.
-
-I am excited about the opportunity to contribute my expertise, creativity, and drive for growth to a collaborative and ambitious team. Let's connect and explore potential ways to collaborate.
-
-If you are interested, my fashion career has been archived [here](https://cargocollective.com/brandonleung) 
-
 
 ### :hammer_and_wrench: Languages and Tools :
  
